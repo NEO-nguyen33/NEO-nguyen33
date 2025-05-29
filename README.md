@@ -11,7 +11,7 @@ Automate common security tasks with Bash & Python
 ## Featured Projects:
 [WiFi-Cracking-Guide](https://github.com/NEO-nguyen33/WiFi-Cracking-Guide-For-Educational-Use-Only)
 [Nmap Cheatsheet](...)
-[Privilege Escalation on Kali](...)
+[Privilege Escalation ](...)
 
 
 “I don’t hack for fun. I hack to learn — and to teach.”
